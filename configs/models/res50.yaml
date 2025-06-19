@@ -1,0 +1,2 @@
+type: networks.GazeResNet.GazeRes50
+params: {}

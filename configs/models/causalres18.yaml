@@ -1,0 +1,2 @@
+type: networks.Causal_GazeResNet.Causal_GazeRes18
+params: {}

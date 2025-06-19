@@ -1,0 +1,24 @@
+
+mpii: /home/tpei0009/gaze-demo/gaze-demo/mpii_new
+# mpii_male: /home/tpei0009/gaze-demo/gaze-demo/mpii_new
+# mpii_female: /home/tpei0009/gaze-demo/gaze-demo/mpii_new
+gazecapture_test: /home/tpei0009/gaze_capture_128
+gazecapture_bg: /home/tpei0009/gaze_capture_128
+gaze360_train: /home/tpei0009/gaze-demo/gaze-demo/gaze360_data/2025-06-18-15-27-07/train
+gaze360_test: /home/tpei0009/gaze-demo/gaze-demo/gaze360_data/2025-06-18-15-52-20/test
+
+eyediap_cs: /home/tpei0009/gaze-demo/gaze-demo/eyediap/CS/CS
+eyediap_ft: /home/tpei0009/gaze-demo/gaze-demo/eyediap/FT/FT
+xgaze: /home/tpei0009/GazeTR/xgaze_v2_224
+xgaze_bg: /home/tpei0009/GazeTR/xgaze_v2_224
+
+mpii_nv: /home/tpei0009/gaze-demo/gaze-demo/mpii_nv
+mpii_bg: /home/tpei0009/gaze-demo/gaze-demo/mpii_new
+# ## 224
+# gazecapture_test: /home/jqin/wk/Datasets/GazeCapture_eva/gazecapture_test
+# eyediap_cs: /home/jqin/wk/Datasets/EYEDIAP_faze/EYEDIAP_faze_by_subject/CS
+# eyediap_ft: /home/jqin/wk/Datasets/EYEDIAP_faze/EYEDIAP_faze_by_subject/FT
+# xgaze: /media/jqin/disk1/XGaze_render/final_0612/xgaze_448_v2
+
+
+

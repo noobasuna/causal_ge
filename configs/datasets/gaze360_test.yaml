@@ -1,0 +1,8 @@
+type: datasets.gaze360.Gaze360Dataset
+params:
+  data_name: gaze360_test
+  color_type: bgr
+  image_size: 224
+  transform_Normalize: 'basic_imagenet'
+  dataset_path: null
+  keys_to_use: [] ## <-- set this to empty list will automatically read all the h5 files in the dataset_path

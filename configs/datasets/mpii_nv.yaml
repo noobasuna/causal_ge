@@ -1,0 +1,23 @@
+type: datasets.mpiigaze_nv.MPIIGazeDataset
+params:
+  data_name: mpii
+  color_type: bgr
+  dataset_path: null
+  image_size: 128
+  gaze_key: face_gaze
+  keys_to_use: 
+    - p00-012.h5
+    - p01-013.h5
+    - p02-014.h5
+    - p03-015.h5
+    - p04-007.h5
+    - p05-008.h5
+    - p06-009.h5
+    - p07-010.h5
+    - p08-011.h5
+    - p09-004.h5
+    - p10-005.h5
+    - p11-006.h5
+    - p12-001.h5
+    - p13-003.h5
+    - p14-002.h5
