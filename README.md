@@ -20,7 +20,7 @@ The code supports:
 configs/
   data_path.yaml              # local dataset paths; edit this for your machine
   datasets/                   # dataset configs and fixed subject/file lists
-  models/                     # model configs for Ours, ResNet18, PureGaze
+  models/                     # model configs 
 datasets/                     # PyTorch dataset loaders
 networks/                     # model definitions
 utils/                        # preprocessing, attribute, and gaze utilities
