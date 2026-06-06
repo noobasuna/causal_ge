@@ -3,6 +3,8 @@
 This repository contains the implementation and reproducibility package for
 **Causal Insights into Fairness for Appearance-Based Gaze Estimation**.
 
+![Overview of the proposed causal gaze-estimation framework](figure.png)
+
 The code supports:
 
 - our method training/evaluation,
